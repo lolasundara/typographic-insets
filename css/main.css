@@ -99,6 +99,7 @@ main > p:first-child::first-letter {
   padding-left: .2em;
   padding-right: .2em;
   font-style: normal;
+  margin-left: -0.5em;
 }
 
 figure {
