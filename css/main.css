@@ -86,6 +86,10 @@ footer {
  ##########################################################
 */
 
+header {
+  margin-bottom: 1em;
+}
+
 main > p:first-child::first-letter {
   background-color: #666;
   color: #f2f2f2;
