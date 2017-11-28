@@ -94,3 +94,9 @@ main > p:first-child::first-letter {
 
 figure {
   width: 300px;
+}
+
+figcaption {
+  font-size: .875rem;
+  font-style: italic;
+}
