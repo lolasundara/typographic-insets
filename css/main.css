@@ -103,9 +103,17 @@ main > p:first-child::first-letter {
 
 figure {
   width: 300px;
+  float: right;
 }
 
 figcaption {
   font-size: .875rem;
   font-style: italic;
+  float: right;
+}
+
+blockquote {
+  color: #666;
+  font-size: 1.5rem;
+  float: left;
 }
