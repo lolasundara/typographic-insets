@@ -100,6 +100,12 @@ main > p:first-child::first-letter {
   padding-right: .2em;
   font-style: normal;
   margin-left: -.5em;
+  float: left;
+  margin-right: .1em;
+}
+
+p {
+  margin-top: 0;
 }
 
 figure {
