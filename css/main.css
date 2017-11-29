@@ -86,10 +86,6 @@ footer {
  ##########################################################
 */
 
-p {
-  margin-top: 0;
-}
-
 main > p:first-child::first-letter {
   background-color: #666;
   color: #f2f2f2;
