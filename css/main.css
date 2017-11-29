@@ -86,8 +86,8 @@ footer {
  ##########################################################
 */
 
-header {
-  margin-bottom: 1em;
+p {
+  margin-top: 0;
 }
 
 main > p:first-child::first-letter {
@@ -102,10 +102,6 @@ main > p:first-child::first-letter {
   margin-left: -.5em;
   float: left;
   margin-right: .1em;
-}
-
-p {
-  margin-top: 0;
 }
 
 figure {
