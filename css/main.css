@@ -114,7 +114,11 @@ figcaption {
 }
 
 blockquote {
+  display: inline-block;
   color: #666;
   font-size: 1.5rem;
   float: left;
+  width: 300px;
+  margin-left: -5em;
+  margin-right: .5em;
 }
